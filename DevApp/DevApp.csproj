@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AccountService\AccountService.csproj" />
+    <ProjectReference Include="..\CurrentSessionDataProvider\CurrentSessionDataProvider.csproj" />
+    <ProjectReference Include="..\NotificationService\NotificationService.csproj" />
+    <ProjectReference Include="..\PostingService\PostingService.csproj" />
+    <ProjectReference Include="..\UtilitiesLibrary\UtilitiesLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

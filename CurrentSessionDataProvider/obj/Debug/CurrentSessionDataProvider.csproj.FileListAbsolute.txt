@@ -1,0 +1,6 @@
+C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\bin\Debug\CurrentSessionDataProvider.dll
+C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\bin\Debug\CurrentSessionDataProvider.pdb
+C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.csproj.AssemblyReference.cache
+C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.dll
+C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.pdb

@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Posts Viewer" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="359*"/>
+            <ColumnDefinition Width="441*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Кнопка обновления -->
+        <StackPanel Grid.ColumnSpan="2" Orientation="Vertical" Margin="10">
+            <Button Content="Обновить" Click="RefreshButton_Click" Margin="0,0,0,10"/>
+            <ListView Name="PostsListView" VerticalAlignment="Stretch" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="#D3D3D3" BorderThickness="1" Margin="5" CornerRadius="5" Padding="10">
+                            <StackPanel>
+                                <TextBlock Text="Тема:" FontWeight="Bold" FontSize="14" Foreground="#2F4F4F"/>
+                                <TextBlock Text="{Binding Title}" FontSize="16" FontWeight="Bold" Foreground="#2F4F4F" Margin="0,0,0,5"/>
+
+                                <TextBlock Text="Основная часть:" FontWeight="Bold" FontSize="14" Foreground="#2F4F4F"/>
+                                <TextBlock Text="{Binding Content}" TextWrapping="Wrap" Margin="0,0,0,5" FontSize="14"/>
+
+                                <TextBlock Text="Местоположение:" FontWeight="Bold" FontSize="14" Foreground="#2F4F4F"/>
+                                <TextBlock Text="{Binding Location}" FontStyle="Italic" Foreground="#708090" Margin="0,0,0,5"/>
+
+                                <TextBlock Text="Дата публикации:" FontWeight="Bold" FontSize="14" Foreground="#2F4F4F"/>
+                                <TextBlock Text="{Binding DatePosted}" Foreground="#808080" FontSize="12" Margin="0,0,0,10"/>
+
+                                <Button Content="Откликнуться" Background="#4CAF50" Foreground="White" Padding="10" BorderBrush="Transparent" Cursor="Hand"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>
