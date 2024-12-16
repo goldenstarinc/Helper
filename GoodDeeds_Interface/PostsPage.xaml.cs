@@ -16,18 +16,13 @@ using System.Windows.Shapes;
 namespace GoodDeeds_Interface
 {
     /// <summary>
-    /// Логика взаимодействия для MainPage.xaml
+    /// Логика взаимодействия для PostsPage.xaml
     /// </summary>
-    public partial class MainPage : Page
+    public partial class PostsPage : Page
     {
-        public MainPage()
+        public PostsPage()
         {
             InitializeComponent();
-        }
-
-        private void Posts_Button_Click(object sender, RoutedEventArgs e)
-        {
-            MainPageFrame.Navigate(new PostsPage());    
         }
     }
 }
