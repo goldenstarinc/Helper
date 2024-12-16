@@ -289,23 +289,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\notso\\.nuget\\packages\\": {},
+    "C:\\Users\\Ruslan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\DevApp\\DevApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\DevApp.csproj",
       "projectName": "DevApp",
-      "projectPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\DevApp\\DevApp.csproj",
-      "packagesPath": "C:\\Users\\notso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\DevApp\\obj\\",
+      "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\DevApp.csproj",
+      "packagesPath": "C:\\Users\\Ruslan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\notso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -314,27 +314,26 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\AccountService\\AccountService.csproj": {
-              "projectPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\AccountService\\AccountService.csproj"
+            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj": {
+              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj"
             },
-            "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-              "projectPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
             },
-            "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\NotificationService\\NotificationService.csproj": {
-              "projectPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\NotificationService\\NotificationService.csproj"
+            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj": {
+              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj"
             },
-            "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\PostingService\\PostingService.csproj": {
-              "projectPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\PostingService\\PostingService.csproj"
+            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj": {
+              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj"
             },
-            "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
-              "projectPath": "C:\\Users\\notso\\OneDrive\\Desktop\\VOUL\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
+            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
             }
           }
         }
@@ -348,7 +347,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -375,7 +375,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
