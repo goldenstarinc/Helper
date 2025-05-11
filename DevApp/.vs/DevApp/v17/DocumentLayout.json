@@ -1,24 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\",
+  "WorkspaceRootPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\DevApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|c:\\users\\ruslan\\desktop\\github\\helper\\gooddeeds_interface\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|k:\\mydesktop\\github\\stazhor\\helper\\gooddeeds_interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|c:\\users\\ruslan\\desktop\\github\\helper\\gooddeeds_interface\\postspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|k:\\mydesktop\\github\\stazhor\\helper\\gooddeeds_interface\\postspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|c:\\users\\ruslan\\desktop\\github\\helper\\gooddeeds_interface\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|c:\\users\\ruslan\\desktop\\github\\helper\\gooddeeds_interface\\authentificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|c:\\users\\ruslan\\desktop\\github\\helper\\gooddeeds_interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|c:\\users\\ruslan\\desktop\\github\\helper\\gooddeeds_interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7D740921-0912-49BB-8DBA-1D0064103C6A}|..\\GoodDeeds_Interface\\GoodDeeds_Interface.csproj|k:\\mydesktop\\github\\stazhor\\helper\\gooddeeds_interface\\postspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,83 +19,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainPage.xaml.cs",
-              "RelativeToolTip": "..\\GoodDeeds_Interface\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:58:41.624Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\GoodDeeds_Interface\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\MainWindow.xaml",
+              "ToolTip": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\GoodDeeds_Interface\\MainWindow.xaml",
+              "RelativeToolTip": "..\\GoodDeeds_Interface\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T12:21:13.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsPage.xaml",
+              "DocumentMoniker": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\GoodDeeds_Interface\\PostsPage.xaml",
+              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\PostsPage.xaml",
+              "ToolTip": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\GoodDeeds_Interface\\PostsPage.xaml",
+              "RelativeToolTip": "..\\GoodDeeds_Interface\\PostsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T12:14:00.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PostsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\PostsPage.xaml",
-              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\PostsPage.xaml",
-              "ToolTip": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\PostsPage.xaml",
-              "RelativeToolTip": "..\\GoodDeeds_Interface\\PostsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T10:57:48.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainPage.xaml",
-              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainPage.xaml",
-              "RelativeToolTip": "..\\GoodDeeds_Interface\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T09:49:10.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthentificationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\AuthentificationPage.xaml",
-              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\AuthentificationPage.xaml",
-              "ToolTip": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\AuthentificationPage.xaml",
-              "RelativeToolTip": "..\\GoodDeeds_Interface\\AuthentificationPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T09:24:12.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainWindow.xaml",
-              "RelativeToolTip": "..\\GoodDeeds_Interface\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T09:21:28.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\GoodDeeds_Interface\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\GoodDeeds_Interface\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Title": "PostsPage.xaml.cs",
+              "DocumentMoniker": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\GoodDeeds_Interface\\PostsPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\GoodDeeds_Interface\\PostsPage.xaml.cs",
+              "ToolTip": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\GoodDeeds_Interface\\PostsPage.xaml.cs",
+              "RelativeToolTip": "..\\GoodDeeds_Interface\\PostsPage.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:21:28.063Z"
+              "WhenOpened": "2025-05-11T11:46:52.128Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GoodDeeds_Interface"
         mc:Ignorable="d"
-            Title="MainWindow" Height="720" Width="1280">
+            Title="STAZHOR - Поиск стажировки" Height="720" Width="1280">
     <Grid>
         <Frame Name="MainFrame" NavigationUIVisibility="Hidden" Content=""/>
 

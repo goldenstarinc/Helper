@@ -4,3 +4,9 @@ C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\Curren
 C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.csproj.CoreCompileInputs.cache
 C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.dll
 C:\Users\notso\OneDrive\Desktop\VOUL\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.pdb
+K:\MyDesktop\GitHub\STAZHOR\Helper\CurrentSessionDataProvider\bin\Debug\CurrentSessionDataProvider.dll
+K:\MyDesktop\GitHub\STAZHOR\Helper\CurrentSessionDataProvider\bin\Debug\CurrentSessionDataProvider.pdb
+K:\MyDesktop\GitHub\STAZHOR\Helper\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.csproj.AssemblyReference.cache
+K:\MyDesktop\GitHub\STAZHOR\Helper\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.csproj.CoreCompileInputs.cache
+K:\MyDesktop\GitHub\STAZHOR\Helper\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.dll
+K:\MyDesktop\GitHub\STAZHOR\Helper\CurrentSessionDataProvider\obj\Debug\CurrentSessionDataProvider.pdb

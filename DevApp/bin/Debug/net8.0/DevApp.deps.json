@@ -57,7 +57,7 @@
         },
         "runtime": {
           "AccountService.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -65,7 +65,7 @@
       "CurrentSessionDataProvider/1.0.0": {
         "runtime": {
           "CurrentSessionDataProvider.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -78,7 +78,7 @@
         },
         "runtime": {
           "NotificationService.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -90,7 +90,7 @@
         },
         "runtime": {
           "PostingService.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -101,7 +101,7 @@
         },
         "runtime": {
           "UtilitiesLibrary.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

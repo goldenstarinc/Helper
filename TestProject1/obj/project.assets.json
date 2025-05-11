@@ -5786,23 +5786,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ruslan\\.nuget\\packages\\": {},
+    "C:\\Users\\notso\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\TestProject1\\TestProject1.csproj",
-      "packagesPath": "C:\\Users\\Ruslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\TestProject1\\obj\\",
+      "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\TestProject1\\TestProject1.csproj",
+      "packagesPath": "C:\\Users\\notso\\.nuget\\packages\\",
+      "outputPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\notso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5811,26 +5811,27 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj": {
-              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj"
+            "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj": {
+              "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj"
             },
-            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+            "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+              "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
             },
-            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj": {
-              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj"
+            "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj": {
+              "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj"
             },
-            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj": {
-              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj"
+            "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj": {
+              "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj"
             },
-            "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
-              "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
+            "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+              "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
             }
           }
         }
@@ -5845,7 +5846,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5888,7 +5889,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

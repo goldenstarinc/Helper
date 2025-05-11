@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\DevApp.csproj": {}
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\DevApp\\DevApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj": {
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj",
+        "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj",
         "projectName": "AccountService",
-        "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj",
+        "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
               }
             }
           }
@@ -27,11 +27,11 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj",
+        "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj",
         "projectName": "CurrentSessionDataProvider",
-        "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj",
+        "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
@@ -43,20 +43,20 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\DevApp.csproj": {
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\DevApp\\DevApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\DevApp.csproj",
+        "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\DevApp\\DevApp.csproj",
         "projectName": "DevApp",
-        "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\DevApp.csproj",
-        "packagesPath": "C:\\Users\\Ruslan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\DevApp\\obj\\",
+        "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\DevApp\\DevApp.csproj",
+        "packagesPath": "C:\\Users\\notso\\.nuget\\packages\\",
+        "outputPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\DevApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\notso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,26 +65,27 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\AccountService\\AccountService.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\AccountService\\AccountService.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
               }
             }
           }
@@ -99,7 +100,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -126,27 +127,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj": {
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj",
+        "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj",
         "projectName": "NotificationService",
-        "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\NotificationService\\NotificationService.csproj",
+        "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\NotificationService\\NotificationService.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
               }
             }
           }
@@ -156,20 +157,20 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj": {
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj",
+        "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj",
         "projectName": "PostingService",
-        "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\PostingService\\PostingService.csproj",
+        "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\PostingService\\PostingService.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
               },
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj"
               }
             }
           }
@@ -179,17 +180,17 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
+    "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj",
+        "projectUniqueName": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj",
         "projectName": "UtilitiesLibrary",
-        "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj",
+        "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\UtilitiesLibrary\\UtilitiesLibrary.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
-                "projectPath": "C:\\Users\\Ruslan\\Desktop\\GitHub\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
+              "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj": {
+                "projectPath": "K:\\MyDesktop\\GitHub\\STAZHOR\\Helper\\CurrentSessionDataProvider\\CurrentSessionDataProvider.csproj"
               }
             }
           }
